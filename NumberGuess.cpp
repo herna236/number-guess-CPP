@@ -14,6 +14,7 @@ int main() {
     int attempts = 0;
 
     cout << "Welcome to Guess the Number!" << endl;
+    cout << "I'm thinking of a number from 1-100, try and guess it" << endl;
 
     do {
         cout << "Enter your guess (1-100): ";
